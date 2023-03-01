@@ -9,7 +9,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zioan&label=Profile%20views&color=0e75b6&style=flat"
-    alt="petruwalter" /> </p>
+    alt="Ioan Zaharia" /> </p>
 
 - 🔭 I’m currently working on [snippets 2.0](https://snippets.zioan.com)
 
@@ -28,7 +28,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a>
@@ -69,13 +69,17 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a>
-</p>
+</div>
 
 <br>
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=zioan&show_icons=true&locale=en&layout=compact"
-    alt="zioan" /></p>
+<div style="display:flex; flex-wrap:wrap;">
+  
+  <p><img style="flex:1; margin:5px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=zioan&show_icons=true&locale=en&layout=compact"
+      alt="zioan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zioan&show_icons=true&locale=en"
-    alt="zioan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zioan&" alt="zioan" /></p>
+  <p>&nbsp;<img style="flex:1; margin:5px;" src="https://github-readme-stats.vercel.app/api?username=zioan&show_icons=true&locale=en&layout=compact"
+      alt="zioan" /></p>
+
+  <p><img style="flex:1; margin:5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=zioan&layout=compact" alt="zioan" /></p>
+</div>
