@@ -11,9 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zioan&label=Profile%20views&color=0e75b6&style=flat"
     alt="Ioan Zaharia" /> </p>
 
-- 🔭 I’m currently working on [snippets 2.0](https://snippets.zioan.com)
-
-- 👨‍💻 Some of the personal projects that I can share [https://ioanzaharia.com](https://ioanzaharia.com)
+- 🔭 I’m currently working on innovative solutions for the restaurant and related industries through the development of a comprehensive ordering, delivery, and management system within my own SaaS venture.
 
 
 <h3 align="left">Connect with me:</h3>
