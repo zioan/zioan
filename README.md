@@ -69,15 +69,4 @@
       alt="mysql" width="40" height="40" /> </a>
 </div>
 
-<br>
-<div style="display:flex; flex-wrap:wrap;">
-  
-  <p><img style="flex:1; margin:5px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=zioan&show_icons=true&locale=en&layout=compact"
-      alt="zioan" /></p>
 
-  <p>&nbsp;<img style="flex:1; margin:5px;" src="https://github-readme-stats.vercel.app/api?username=zioan&show_icons=true&locale=en&layout=compact"
-      alt="zioan" /></p>
-
-  <p><img style="flex:1; margin:5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=zioan&layout=compact" alt="zioan" /></p>
-</div>
