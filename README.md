@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ioan Zaharia</h1>
 
-<img align="right" alt="Coding" width="400"
-  src="https://media.licdn.com/dms/image/C5622AQFa9jqFEQzk-Q/feedshare-shrink_800/0/1674753440020?e=1680739200&v=beta&t=rOBNbFzSQYNXZiuUoZgzQaC_tCALPtyUofcObNtd0DM&style=flat"
-  alt="">
-
 <h3 align="left">I'm living my biggest passion creating innovative and user-friendly digital
   solutions.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zioan&label=Profile%20views&color=0e75b6&style=flat"
     alt="Ioan Zaharia" /> </p>
-
-- 🔭 I’m currently working on innovative solutions for the restaurant and related industries through the development of a comprehensive ordering, delivery, and management system within my own SaaS venture.
 
 
 <h3 align="left">Connect with me:</h3>
